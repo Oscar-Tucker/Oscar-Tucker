@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oscar-Tucker
+- 👋 Hi, I’m @Oscar Tucker
 - 👀 I’m interested in formula 1
 - 🌱 I’m currently learning software D&D
 - 💞️ I’m looking to collaborate on database
